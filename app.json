@@ -1,0 +1,12 @@
+{
+  "name": "ssipmt_news_app",
+  "displayName": "ssipmt_news_app",
+  "expo": {
+    "name": "ssipmt_news_app",
+    "slug": "ssipmt_news_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
